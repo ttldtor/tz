@@ -1,152 +1,152 @@
 # The Windows time zone enumeration example
 
-Example:
+Example of usage:
 
 ```console
-tz.exe
+./tz.exe
 Current time zone:
-RTZ 2 (зима)
+RTZ 2 (Р·РёРјР°)
 
 Available time zones:
-Афганское время (зима) <-> Afghanistan Standard Time
-Аляскинское время (зима) <-> Alaskan Standard Time
-Алеутские острова (зима) <-> Aleutian Standard Time
-Алтайское стандартное время <-> Altai Standard Time
-Саудовское время (зима) <-> Arab Standard Time
-Арабское время (зима) <-> Arabian Standard Time
-Багдадское время (зима) <-> Arabic Standard Time
-Аргентина (зима) <-> Argentina Standard Time
-Астраханское стандартное время <-> Astrakhan Standard Time
-Атлантическое время (зима) <-> Atlantic Standard Time
-Центральная Австралия (зима) <-> AUS Central Standard Time
-Ц.-зап. Австралия (зима) <-> Aus Central W. Standard Time
-Сиднейское время (зима) <-> AUS Eastern Standard Time
-Азербайджанское время (зима) <-> Azerbaijan Standard Time
-Азорское время (зима) <-> Azores Standard Time
-Баия (зима) <-> Bahia Standard Time
-Бангладеш (зима) <-> Bangladesh Standard Time
-Беларусь (зима) <-> Belarus Standard Time
-Бугенвиль (зима) <-> Bougainville Standard Time
-Центральная Канада (зима) <-> Canada Central Standard Time
-Кабо-Верде (зима) <-> Cape Verde Standard Time
-Кавказское время (зима) <-> Caucasus Standard Time
-Центрально-Австралийский (зима) <-> Cen. Australia Standard Time
-Центральная Америка (зима) <-> Central America Standard Time
-Центральная Азия (зима) <-> Central Asia Standard Time
-Центральная Бразилия (зима) <-> Central Brazilian Standard Time
-Центральная Европа (зима) <-> Central Europe Standard Time
-Центральноевропейский (зима) <-> Central European Standard Time
-Центрально-тихоокеанский (зима) <-> Central Pacific Standard Time
-Центральное время США (зима) <-> Central Standard Time
-Центральное время Мехико (зима) <-> Central Standard Time (Mexico)
-Чатем (зима) <-> Chatham Islands Standard Time
-Китайское время (зима) <-> China Standard Time
-Куба (зима) <-> Cuba Standard Time
-Линия перемены дат (зима) <-> Dateline Standard Time
-Восточная Африка (зима) <-> E. Africa Standard Time
-Восточная Австралия (зима) <-> E. Australia Standard Time
-Восточная Европа (зима) <-> E. Europe Standard Time
-Восточное Ю-Ам. время (зима) <-> E. South America Standard Time
-о. Пасхи, стандартное время <-> Easter Island Standard Time
-Восточное время США (зима) <-> Eastern Standard Time
-Восточн. поясн. время (Мексика) <-> Eastern Standard Time (Mexico)
-Египетское время (зима) <-> Egypt Standard Time
-RTZ 4 (зима) <-> Ekaterinburg Standard Time
-Фиджи (зима) <-> Fiji Standard Time
-Финляндия (зима) <-> FLE Standard Time
-Грузинское время (зима) <-> Georgian Standard Time
-GMT - время по Гринвичу (зима) <-> GMT Standard Time
-Гренландское время (зима) <-> Greenland Standard Time
-Время по Гринвичу (зима) <-> Greenwich Standard Time
-Греция, Турция (зима) <-> GTB Standard Time
-Гаитянское стандартное время <-> Haiti Standard Time
-Гавайское время (зима) <-> Hawaiian Standard Time
-Индийское время (зима) <-> India Standard Time
-Иранское время (зима) <-> Iran Standard Time
-Иерусалимское время (зима) <-> Israel Standard Time
-Иорданское время (зима) <-> Jordan Standard Time
-RTZ 1 (зима) <-> Kaliningrad Standard Time
-Камчатка (зима) <-> Kamchatka Standard Time
-Корейское время (зима) <-> Korea Standard Time
-Ливия (зима) <-> Libya Standard Time
-О-ва Лайн (зима) <-> Line Islands Standard Time
-Лорд-Хау (зима) <-> Lord Howe Standard Time
-Магадан (зима) <-> Magadan Standard Time
-Магальянес, зимнее время <-> Magallanes Standard Time
-Маркизские острова (зима) <-> Marquesas Standard Time
-Маврикий (зима) <-> Mauritius Standard Time
-Средняя Атлантика (зима) <-> Mid-Atlantic Standard Time
-Ливанское время (зима) <-> Middle East Standard Time
-Монтевидео (зима) <-> Montevideo Standard Time
-Марокко (зима) <-> Morocco Standard Time
-Горное время США (зима) <-> Mountain Standard Time
-Горное время (Мексика) (зима) <-> Mountain Standard Time (Mexico)
-Мьянмарское время (зима) <-> Myanmar Standard Time
-Новосибирское стандартное время <-> N. Central Asia Standard Time
-Намибийское время (зима) <-> Namibia Standard Time
-Непальское время (зима) <-> Nepal Standard Time
-Новозеландское время (зима) <-> New Zealand Standard Time
-Ньюфаундлендское время (зима) <-> Newfoundland Standard Time
-Норфолк (зима) <-> Norfolk Standard Time
-RTZ 7 (зима) <-> North Asia East Standard Time
-RTZ 6 (зима) <-> North Asia Standard Time
-Северокорейское время (зима) <-> North Korea Standard Time
-Омское стандартное время <-> Omsk Standard Time
-Тихоокеанское Ю-Ам. вр. (зима) <-> Pacific SA Standard Time
-Тихоокеанское время США (зима) <-> Pacific Standard Time
-Тихоокеанская Мексика (зима) <-> Pacific Standard Time (Mexico)
-Пакистан (зима) <-> Pakistan Standard Time
-Парагвай (зима) <-> Paraguay Standard Time
-Кызылорда (зима) <-> Qyzylorda Standard Time
-Романское время (зима) <-> Romance Standard Time
-RTZ 10 (зима) <-> Russia Time Zone 10
-RTZ 11 (зима) <-> Russia Time Zone 11
-RTZ 3 (зима) <-> Russia Time Zone 3
-RTZ 2 (зима) <-> Russian Standard Time
-Ю-Ам. восточное время (зима) <-> SA Eastern Standard Time
-Ю-Ам. тихоокеанское вр. (зима) <-> SA Pacific Standard Time
-Ю-Ам. западное время (зима) <-> SA Western Standard Time
-Сен-Пьер (зима) <-> Saint Pierre Standard Time
-Сахалинское стандартное время <-> Sakhalin Standard Time
-Самоанское время (зима) <-> Samoa Standard Time
-Сан-Томе (зима) <-> Sao Tome Standard Time
-Саратов (зима) <-> Saratov Standard Time
-Юго-Восточная Азия (зима) <-> SE Asia Standard Time
-Малайское время (зима) <-> Singapore Standard Time
-Южная Африка (зима) <-> South Africa Standard Time
-Южный Судан (зима) <-> South Sudan Standard Time
-Шри-Ланка (зима) <-> Sri Lanka Standard Time
-Судан (зима) <-> Sudan Standard Time
-Сирия (зима) <-> Syria Standard Time
-Тайваньское время (зима) <-> Taipei Standard Time
-Тасманийское время (зима) <-> Tasmania Standard Time
-Токантинс (зима) <-> Tocantins Standard Time
-Токийское время (зима) <-> Tokyo Standard Time
-Томск (зима) <-> Tomsk Standard Time
-Тонга (зима) <-> Tonga Standard Time
-Забайкальское стандартное время <-> Transbaikal Standard Time
-Турция (зима) <-> Turkey Standard Time
-Острова Теркс и Кайкос (зима) <-> Turks And Caicos Standard Time
-Улан-Батор (зима) <-> Ulaanbaatar Standard Time
-США - восточное время (зима) <-> US Eastern Standard Time
-США - горное время (зима) <-> US Mountain Standard Time
-Время в формате UTC <-> UTC
+РђС„РіР°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Afghanistan Standard Time
+РђР»СЏСЃРєРёРЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Alaskan Standard Time
+РђР»РµСѓС‚СЃРєРёРµ РѕСЃС‚СЂРѕРІР° (Р·РёРјР°) <-> Aleutian Standard Time
+РђР»С‚Р°Р№СЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Altai Standard Time
+РЎР°СѓРґРѕРІСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Arab Standard Time
+РђСЂР°Р±СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Arabian Standard Time
+Р‘Р°РіРґР°РґСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Arabic Standard Time
+РђСЂРіРµРЅС‚РёРЅР° (Р·РёРјР°) <-> Argentina Standard Time
+РђСЃС‚СЂР°С…Р°РЅСЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Astrakhan Standard Time
+РђС‚Р»Р°РЅС‚РёС‡РµСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Atlantic Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ РђРІСЃС‚СЂР°Р»РёСЏ (Р·РёРјР°) <-> AUS Central Standard Time
+Р¦.-Р·Р°Рї. РђРІСЃС‚СЂР°Р»РёСЏ (Р·РёРјР°) <-> Aus Central W. Standard Time
+РЎРёРґРЅРµР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> AUS Eastern Standard Time
+РђР·РµСЂР±Р°Р№РґР¶Р°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Azerbaijan Standard Time
+РђР·РѕСЂСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Azores Standard Time
+Р‘Р°РёСЏ (Р·РёРјР°) <-> Bahia Standard Time
+Р‘Р°РЅРіР»Р°РґРµС€ (Р·РёРјР°) <-> Bangladesh Standard Time
+Р‘РµР»Р°СЂСѓСЃСЊ (Р·РёРјР°) <-> Belarus Standard Time
+Р‘СѓРіРµРЅРІРёР»СЊ (Р·РёРјР°) <-> Bougainville Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ РљР°РЅР°РґР° (Р·РёРјР°) <-> Canada Central Standard Time
+РљР°Р±Рѕ-Р’РµСЂРґРµ (Р·РёРјР°) <-> Cape Verde Standard Time
+РљР°РІРєР°Р·СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Caucasus Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅРѕ-РђРІСЃС‚СЂР°Р»РёР№СЃРєРёР№ (Р·РёРјР°) <-> Cen. Australia Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ РђРјРµСЂРёРєР° (Р·РёРјР°) <-> Central America Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ РђР·РёСЏ (Р·РёРјР°) <-> Central Asia Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ Р‘СЂР°Р·РёР»РёСЏ (Р·РёРјР°) <-> Central Brazilian Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ Р•РІСЂРѕРїР° (Р·РёРјР°) <-> Central Europe Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅРѕРµРІСЂРѕРїРµР№СЃРєРёР№ (Р·РёРјР°) <-> Central European Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅРѕ-С‚РёС…РѕРѕРєРµР°РЅСЃРєРёР№ (Р·РёРјР°) <-> Central Pacific Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅРѕРµ РІСЂРµРјСЏ РЎРЁРђ (Р·РёРјР°) <-> Central Standard Time
+Р¦РµРЅС‚СЂР°Р»СЊРЅРѕРµ РІСЂРµРјСЏ РњРµС…РёРєРѕ (Р·РёРјР°) <-> Central Standard Time (Mexico)
+Р§Р°С‚РµРј (Р·РёРјР°) <-> Chatham Islands Standard Time
+РљРёС‚Р°Р№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> China Standard Time
+РљСѓР±Р° (Р·РёРјР°) <-> Cuba Standard Time
+Р›РёРЅРёСЏ РїРµСЂРµРјРµРЅС‹ РґР°С‚ (Р·РёРјР°) <-> Dateline Standard Time
+Р’РѕСЃС‚РѕС‡РЅР°СЏ РђС„СЂРёРєР° (Р·РёРјР°) <-> E. Africa Standard Time
+Р’РѕСЃС‚РѕС‡РЅР°СЏ РђРІСЃС‚СЂР°Р»РёСЏ (Р·РёРјР°) <-> E. Australia Standard Time
+Р’РѕСЃС‚РѕС‡РЅР°СЏ Р•РІСЂРѕРїР° (Р·РёРјР°) <-> E. Europe Standard Time
+Р’РѕСЃС‚РѕС‡РЅРѕРµ Р®-РђРј. РІСЂРµРјСЏ (Р·РёРјР°) <-> E. South America Standard Time
+Рѕ. РџР°СЃС…Рё, СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Easter Island Standard Time
+Р’РѕСЃС‚РѕС‡РЅРѕРµ РІСЂРµРјСЏ РЎРЁРђ (Р·РёРјР°) <-> Eastern Standard Time
+Р’РѕСЃС‚РѕС‡РЅ. РїРѕСЏСЃРЅ. РІСЂРµРјСЏ (РњРµРєСЃРёРєР°) <-> Eastern Standard Time (Mexico)
+Р•РіРёРїРµС‚СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Egypt Standard Time
+RTZ 4 (Р·РёРјР°) <-> Ekaterinburg Standard Time
+Р¤РёРґР¶Рё (Р·РёРјР°) <-> Fiji Standard Time
+Р¤РёРЅР»СЏРЅРґРёСЏ (Р·РёРјР°) <-> FLE Standard Time
+Р“СЂСѓР·РёРЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Georgian Standard Time
+GMT - РІСЂРµРјСЏ РїРѕ Р“СЂРёРЅРІРёС‡Сѓ (Р·РёРјР°) <-> GMT Standard Time
+Р“СЂРµРЅР»Р°РЅРґСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Greenland Standard Time
+Р’СЂРµРјСЏ РїРѕ Р“СЂРёРЅРІРёС‡Сѓ (Р·РёРјР°) <-> Greenwich Standard Time
+Р“СЂРµС†РёСЏ, РўСѓСЂС†РёСЏ (Р·РёРјР°) <-> GTB Standard Time
+Р“Р°РёС‚СЏРЅСЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Haiti Standard Time
+Р“Р°РІР°Р№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Hawaiian Standard Time
+РРЅРґРёР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> India Standard Time
+РСЂР°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Iran Standard Time
+РРµСЂСѓСЃР°Р»РёРјСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Israel Standard Time
+РРѕСЂРґР°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Jordan Standard Time
+RTZ 1 (Р·РёРјР°) <-> Kaliningrad Standard Time
+РљР°РјС‡Р°С‚РєР° (Р·РёРјР°) <-> Kamchatka Standard Time
+РљРѕСЂРµР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Korea Standard Time
+Р›РёРІРёСЏ (Р·РёРјР°) <-> Libya Standard Time
+Рћ-РІР° Р›Р°Р№РЅ (Р·РёРјР°) <-> Line Islands Standard Time
+Р›РѕСЂРґ-РҐР°Сѓ (Р·РёРјР°) <-> Lord Howe Standard Time
+РњР°РіР°РґР°РЅ (Р·РёРјР°) <-> Magadan Standard Time
+РњР°РіР°Р»СЊСЏРЅРµСЃ, Р·РёРјРЅРµРµ РІСЂРµРјСЏ <-> Magallanes Standard Time
+РњР°СЂРєРёР·СЃРєРёРµ РѕСЃС‚СЂРѕРІР° (Р·РёРјР°) <-> Marquesas Standard Time
+РњР°РІСЂРёРєРёР№ (Р·РёРјР°) <-> Mauritius Standard Time
+РЎСЂРµРґРЅСЏСЏ РђС‚Р»Р°РЅС‚РёРєР° (Р·РёРјР°) <-> Mid-Atlantic Standard Time
+Р›РёРІР°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Middle East Standard Time
+РњРѕРЅС‚РµРІРёРґРµРѕ (Р·РёРјР°) <-> Montevideo Standard Time
+РњР°СЂРѕРєРєРѕ (Р·РёРјР°) <-> Morocco Standard Time
+Р“РѕСЂРЅРѕРµ РІСЂРµРјСЏ РЎРЁРђ (Р·РёРјР°) <-> Mountain Standard Time
+Р“РѕСЂРЅРѕРµ РІСЂРµРјСЏ (РњРµРєСЃРёРєР°) (Р·РёРјР°) <-> Mountain Standard Time (Mexico)
+РњСЊСЏРЅРјР°СЂСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Myanmar Standard Time
+РќРѕРІРѕСЃРёР±РёСЂСЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> N. Central Asia Standard Time
+РќР°РјРёР±РёР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Namibia Standard Time
+РќРµРїР°Р»СЊСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Nepal Standard Time
+РќРѕРІРѕР·РµР»Р°РЅРґСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> New Zealand Standard Time
+РќСЊСЋС„Р°СѓРЅРґР»РµРЅРґСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Newfoundland Standard Time
+РќРѕСЂС„РѕР»Рє (Р·РёРјР°) <-> Norfolk Standard Time
+RTZ 7 (Р·РёРјР°) <-> North Asia East Standard Time
+RTZ 6 (Р·РёРјР°) <-> North Asia Standard Time
+РЎРµРІРµСЂРѕРєРѕСЂРµР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> North Korea Standard Time
+РћРјСЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Omsk Standard Time
+РўРёС…РѕРѕРєРµР°РЅСЃРєРѕРµ Р®-РђРј. РІСЂ. (Р·РёРјР°) <-> Pacific SA Standard Time
+РўРёС…РѕРѕРєРµР°РЅСЃРєРѕРµ РІСЂРµРјСЏ РЎРЁРђ (Р·РёРјР°) <-> Pacific Standard Time
+РўРёС…РѕРѕРєРµР°РЅСЃРєР°СЏ РњРµРєСЃРёРєР° (Р·РёРјР°) <-> Pacific Standard Time (Mexico)
+РџР°РєРёСЃС‚Р°РЅ (Р·РёРјР°) <-> Pakistan Standard Time
+РџР°СЂР°РіРІР°Р№ (Р·РёРјР°) <-> Paraguay Standard Time
+РљС‹Р·С‹Р»РѕСЂРґР° (Р·РёРјР°) <-> Qyzylorda Standard Time
+Р РѕРјР°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Romance Standard Time
+RTZ 10 (Р·РёРјР°) <-> Russia Time Zone 10
+RTZ 11 (Р·РёРјР°) <-> Russia Time Zone 11
+RTZ 3 (Р·РёРјР°) <-> Russia Time Zone 3
+RTZ 2 (Р·РёРјР°) <-> Russian Standard Time
+Р®-РђРј. РІРѕСЃС‚РѕС‡РЅРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> SA Eastern Standard Time
+Р®-РђРј. С‚РёС…РѕРѕРєРµР°РЅСЃРєРѕРµ РІСЂ. (Р·РёРјР°) <-> SA Pacific Standard Time
+Р®-РђРј. Р·Р°РїР°РґРЅРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> SA Western Standard Time
+РЎРµРЅ-РџСЊРµСЂ (Р·РёРјР°) <-> Saint Pierre Standard Time
+РЎР°С…Р°Р»РёРЅСЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Sakhalin Standard Time
+РЎР°РјРѕР°РЅСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Samoa Standard Time
+РЎР°РЅ-РўРѕРјРµ (Р·РёРјР°) <-> Sao Tome Standard Time
+РЎР°СЂР°С‚РѕРІ (Р·РёРјР°) <-> Saratov Standard Time
+Р®РіРѕ-Р’РѕСЃС‚РѕС‡РЅР°СЏ РђР·РёСЏ (Р·РёРјР°) <-> SE Asia Standard Time
+РњР°Р»Р°Р№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Singapore Standard Time
+Р®Р¶РЅР°СЏ РђС„СЂРёРєР° (Р·РёРјР°) <-> South Africa Standard Time
+Р®Р¶РЅС‹Р№ РЎСѓРґР°РЅ (Р·РёРјР°) <-> South Sudan Standard Time
+РЁСЂРё-Р›Р°РЅРєР° (Р·РёРјР°) <-> Sri Lanka Standard Time
+РЎСѓРґР°РЅ (Р·РёРјР°) <-> Sudan Standard Time
+РЎРёСЂРёСЏ (Р·РёРјР°) <-> Syria Standard Time
+РўР°Р№РІР°РЅСЊСЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Taipei Standard Time
+РўР°СЃРјР°РЅРёР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Tasmania Standard Time
+РўРѕРєР°РЅС‚РёРЅСЃ (Р·РёРјР°) <-> Tocantins Standard Time
+РўРѕРєРёР№СЃРєРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> Tokyo Standard Time
+РўРѕРјСЃРє (Р·РёРјР°) <-> Tomsk Standard Time
+РўРѕРЅРіР° (Р·РёРјР°) <-> Tonga Standard Time
+Р—Р°Р±Р°Р№РєР°Р»СЊСЃРєРѕРµ СЃС‚Р°РЅРґР°СЂС‚РЅРѕРµ РІСЂРµРјСЏ <-> Transbaikal Standard Time
+РўСѓСЂС†РёСЏ (Р·РёРјР°) <-> Turkey Standard Time
+РћСЃС‚СЂРѕРІР° РўРµСЂРєСЃ Рё РљР°Р№РєРѕСЃ (Р·РёРјР°) <-> Turks And Caicos Standard Time
+РЈР»Р°РЅ-Р‘Р°С‚РѕСЂ (Р·РёРјР°) <-> Ulaanbaatar Standard Time
+РЎРЁРђ - РІРѕСЃС‚РѕС‡РЅРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> US Eastern Standard Time
+РЎРЁРђ - РіРѕСЂРЅРѕРµ РІСЂРµРјСЏ (Р·РёРјР°) <-> US Mountain Standard Time
+Р’СЂРµРјСЏ РІ С„РѕСЂРјР°С‚Рµ UTC <-> UTC
 UTC+12 <-> UTC+12
 UTC+13 <-> UTC+13
 UTC-02 <-> UTC-02
 UTC-08 <-> UTC-08
 UTC-09 <-> UTC-09
 UTC-11 <-> UTC-11
-Венесуэла (зима) <-> Venezuela Standard Time
-RTZ 9 (зима) <-> Vladivostok Standard Time
-Волгоград (зима) <-> Volgograd Standard Time
-Западная Австралия (зима) <-> W. Australia Standard Time
-Западная Центр. Африка (зима) <-> W. Central Africa Standard Time
-Западная Европа (зима) <-> W. Europe Standard Time
-Западная Монголия (зима) <-> W. Mongolia Standard Time
-Западная Азия (зима) <-> West Asia Standard Time
-Зап. берег и сектор Газа (зима) <-> West Bank Standard Time
-Западно-тихоокеанский (зима) <-> West Pacific Standard Time
-RTZ 8 (зима) <-> Yakutsk Standard Time
-Юкон, зимнее время <-> Yukon Standard Time
+Р’РµРЅРµСЃСѓСЌР»Р° (Р·РёРјР°) <-> Venezuela Standard Time
+RTZ 9 (Р·РёРјР°) <-> Vladivostok Standard Time
+Р’РѕР»РіРѕРіСЂР°Рґ (Р·РёРјР°) <-> Volgograd Standard Time
+Р—Р°РїР°РґРЅР°СЏ РђРІСЃС‚СЂР°Р»РёСЏ (Р·РёРјР°) <-> W. Australia Standard Time
+Р—Р°РїР°РґРЅР°СЏ Р¦РµРЅС‚СЂ. РђС„СЂРёРєР° (Р·РёРјР°) <-> W. Central Africa Standard Time
+Р—Р°РїР°РґРЅР°СЏ Р•РІСЂРѕРїР° (Р·РёРјР°) <-> W. Europe Standard Time
+Р—Р°РїР°РґРЅР°СЏ РњРѕРЅРіРѕР»РёСЏ (Р·РёРјР°) <-> W. Mongolia Standard Time
+Р—Р°РїР°РґРЅР°СЏ РђР·РёСЏ (Р·РёРјР°) <-> West Asia Standard Time
+Р—Р°Рї. Р±РµСЂРµРі Рё СЃРµРєС‚РѕСЂ Р“Р°Р·Р° (Р·РёРјР°) <-> West Bank Standard Time
+Р—Р°РїР°РґРЅРѕ-С‚РёС…РѕРѕРєРµР°РЅСЃРєРёР№ (Р·РёРјР°) <-> West Pacific Standard Time
+RTZ 8 (Р·РёРјР°) <-> Yakutsk Standard Time
+Р®РєРѕРЅ, Р·РёРјРЅРµРµ РІСЂРµРјСЏ <-> Yukon Standard Time
 ```
